@@ -26,6 +26,6 @@ A direct window will be provided to explore functionalities and features.
 ## Documentation
 A PowerPoint presentation and a detailed scientific paper have been realized to provide a complete project documentation:
 
-PowerPoint Presentation , to describe project goals, the data structure, and the chosen visualizations.
+[PowerPoint Presentation](https://github.com/Elnazmomeni/Visual-Analytics-Project/blob/main/presentation.pdf) , to describe project goals, the data structure, and the chosen visualizations.
 
-Scientific Paper, to describe the whole design process, rationale and prototype.
+[Scientific Paper](https://github.com/Elnazmomeni/Visual-Analytics-Project/blob/main/paper.pdf) , to describe the whole design process, rationale and prototype.
