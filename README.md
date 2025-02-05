@@ -21,7 +21,7 @@ curation.
 ## Demo
 Discover the live version of my project:
 
-running the server file /project.py
+running the server file /[interactive_dashboard.py](https://github.com/Elnazmomeni/Visual-Analytics-Project/blob/main/interactive_dashboard.py)
 A direct window will be provided to explore functionalities and features.
 ## Documentation
 A PowerPoint presentation and a detailed scientific paper have been realized to provide a complete project documentation:
